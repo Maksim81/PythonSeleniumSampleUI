@@ -6,7 +6,7 @@ Current solution is based on Ubuntu OS (www.ubuntu.com), but actually many other
 
 Main steps:
 
-1. Download and install Linux OS (www.ubuntu.com)
+1. Download and install Linux OS (e.g. www.ubuntu.com)
 2. Open the terminal
 3. Verify that OS have built-in Python (just type python or python3). In case of installed python you will see the output with python version.
 
