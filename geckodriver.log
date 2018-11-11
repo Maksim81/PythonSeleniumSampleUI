@@ -1,0 +1,14 @@
+1541963708973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vIBRGEo2qxFJ"
+1541963722042	Marionette	INFO	Listening on port 40621
+1541963722317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-N2MDH37&cid=2079018422.1541963733, line 104: unreachable code after return statement
+1541963816313	Marionette	INFO	Stopped listening on port 40621
+1541964298526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dhaEH6pZLD6S"
+1541964323827	Marionette	INFO	Listening on port 41709
+1541964325179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541964343009	Marionette	INFO	Stopped listening on port 41709
+1541964347090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BSOSstmeqqim"
+1541964368121	Marionette	INFO	Listening on port 46119
+1541964368264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541964385186	Marionette	INFO	Stopped listening on port 46119
+[Parent 28309, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
